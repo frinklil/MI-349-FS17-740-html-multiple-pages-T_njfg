@@ -1,0 +1,26 @@
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+
+
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
+
+ body {
+    width: 761px;
+    margin: 1.5em auto; /* this + a defined width, centers the body content */
+    border-color: #464e47;
+    border-style: solid;
+    border-width: 10px;
+    padding: 50px;
+    background-color:#CCFACF;
+  }
